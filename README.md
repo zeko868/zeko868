@@ -2,7 +2,7 @@
 
 ## Short description
 - 🏠 Current residence: Marija Bistrica, Croatia
-- 🧗‍♂️ Hobbies: hiking, traveling, motorcycling, coding, recreational soccer, programming- and foreign-language learning
+- 🧗‍♂️ Hobbies: hiking, traveling, motorcycling, coding, recreational football/soccer, programming- and foreign-language learning
 - 👨‍💻 Current interests: Java and other JVM-based languages, Spring framework, web-application security, DevOps, cloud computing, distributed databases, _alternative_ paradigms like functional- and logic-programming
 
 [![Stats for Petar Šestak](https://github-readme-stats.vercel.app/api?username=zeko868&count_private=true&include_all_commits=true&theme=radical)](https://www.gitmemory.com/zeko868)
