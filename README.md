@@ -10,7 +10,9 @@
 ## Relevant network profiles
 [<img align="left" alt="LinkedIn logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StackOverflow logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="WordPress logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />][wordpress]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/zeko868/
 [stackoverflow]: https://stackoverflow.com/users/7519721/zeko868
+[wordpress]: https://profiles.wordpress.org/zeko868/
